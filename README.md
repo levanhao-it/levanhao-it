@@ -1,6 +1,6 @@
 # Hi, I'm Hao 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/levanhao-it/levanhao-it/blob/main/L%C3%AA%20V%C4%83n%20h%C3%A0o.png" alt="banner ">
+<img src="https://github.com/levanhao-it/levanhao-it/blob/main/L%C3%AA%20V%C4%83n%20h%C3%A0o.png" alt="banner " width="auto" height="200 >
 
 # Introduce yourself
 
